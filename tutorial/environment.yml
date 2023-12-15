@@ -6,13 +6,13 @@ dependencies:
   - python=3.10
   - aiohttp
   - jupyter
-  - pygmt
   - mbutil
   - ndpyramid
+  - pre-commit
+  - pygmt
   - requests
   - rioxarray
   - tippecanoe
   - pip:
       - git+https://github.com/carbonplan/forest-offsets-fires.git
       - carbonplan-data
-
