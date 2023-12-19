@@ -4,7 +4,7 @@ ESIP Lab Pilot Project for the Wildfire & Water RFP led by [CarbonPlan](https://
 
 ## Short project description
 
-There is a rich archive of near real-time satellite-derived active fire data that informs wildfire management. However, accessing this data can be challenging, limiting use in research and planning. We propose lowering the barriers to using these data by developing open, reproducible data management workflows and tutorials. We will demonstrate how to use these new fire data by incorporating these real-time data into our existing forest carbon offset project fire monitoring tool. Augmenting this tool will support ongoing public monitoring and reporting about forest offset projects burning throughout the 2023 United States fire season.
+There is a rich archive of near real-time, satellite-derived active fire data that informs wildfire management. However, accessing this data can be challenging, limiting use in research and planning. We propose lowering the barriers to using these data by developing open, reproducible data management workflows and tutorials. We will demonstrate how to use these new fire data by incorporating these real-time data into our existing forest carbon offset project fire monitoring tool. Augmenting this tool will support ongoing public monitoring and reporting about forest offset projects burning throughout the 2023 United States fire season.
 
 ## Project overview
 
@@ -24,13 +24,13 @@ We created an open source pipeline to generate a cloud-optimized GeoParquet data
 
 We added the active and recent fires dataset to CarbonPlan's [fire and forest offsets monitoring tool](https://carbonplan.org/research/forest-offsets-fires). We use the opacity of the data in the monitoring tool to highlight the fire radiative power. The vector tiles approach effectively highlights active fires when the user is zoomed out and provides context about the active fire front when zoomed in. We published all the code for the monitoring tool in the MIT-licensed [carbonplan/forest-offsets-web](https://github.com/carbonplan/forest-offsets-web) GitHub repository.
 
-We published a [blog post](https://carbonplan.org/blog/forest-offsets-firms) on the addition of the satellite-derived near real-time data to our monitoring tool. We have also engaged with journalists about offset projects burning (e.g., [reporting on the Bootleg Fire](https://www.opb.org/article/2023/08/02/climate-change-carbon-offset-oregon/)). Lastly, we developed a [tutorial](tutorial/fire-monitoring.ipynb) about our workflow. We will present the results at the January 2024 ESIP meeting.
+We published a [blog post](https://carbonplan.org/blog/forest-offsets-firms) on the addition of the satellite-derived, near real-time data to our monitoring tool. We have also engaged with journalists about offset projects burning (e.g., [reporting on the Bootleg Fire](https://www.opb.org/article/2023/08/02/climate-change-carbon-offset-oregon/)). Lastly, we developed a [tutorial](tutorial/fire-monitoring.ipynb) about our workflow. We will present the results at the January 2024 ESIP meeting.
 
 ## CarbonPlan
 
-CarbonPlan is a non-profit organization that uses data and science for climate action. We aim to improve the transparency and scientific integrity of climate solutions with open data and tools. Find out more at [carbonplan.org](https://carbonplan.org/) or get in touch by [sending us an email](mailto:hello@carbonplan.org).
+CarbonPlan is a nonprofit organization that uses data and science for climate action. We aim to improve the transparency and scientific integrity of climate solutions with open data and tools. Find out more at [carbonplan.org](https://carbonplan.org/) or get in touch by [sending us an email](mailto:hello@carbonplan.org).
 
 ## License
 
-All the code in this repository is [MIT](https://choosealicense.com/licenses/mit/) licensed, but we request that you please provide attribution if reusing any of our digital content (graphics, logo, articles, etc.).
+All the code in this repository is [MIT](https://choosealicense.com/licenses/mit/)-licensed, but we request that you please provide attribution if reusing any of our digital content (graphics, logo, articles, etc.).
 
