@@ -26,10 +26,11 @@ We added the active and recent fires dataset to CarbonPlan's [fire and forest of
 
 We published a [blog post](https://carbonplan.org/blog/forest-offsets-firms) on the addition of the satellite-derived near real-time data to our monitoring tool. We have also engaged with journalists about offset projects burning (e.g., [reporting on the Bootleg Fire](https://www.opb.org/article/2023/08/02/climate-change-carbon-offset-oregon/)). Lastly, we developed a [tutorial](tutorial/fire-monitoring.ipynb) about our workflow. We will present the results at the January 2024 ESIP meeting.
 
-## license
+## CarbonPlan
+
+CarbonPlan is a non-profit organization that uses data and science for climate action. We aim to improve the transparency and scientific integrity of climate solutions with open data and tools. Find out more at [carbonplan.org](https://carbonplan.org/) or get in touch by [sending us an email](mailto:hello@carbonplan.org).
+
+## License
 
 All the code in this repository is [MIT](https://choosealicense.com/licenses/mit/) licensed, but we request that you please provide attribution if reusing any of our digital content (graphics, logo, articles, etc.).
 
-## about us
-
-CarbonPlan is a non-profit organization that uses data and science for climate action. We aim to improve the transparency and scientific integrity of climate solutions with open data and tools. Find out more at [carbonplan.org](https://carbonplan.org/) or get in touch by [sending us an email](mailto:hello@carbonplan.org).
